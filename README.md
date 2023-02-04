@@ -57,6 +57,6 @@
 <h2>Let's code!!!</h2>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
   
-  ![Snake animation](https://github.com/Milton6913/MiltonLima/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
   
 </div>
